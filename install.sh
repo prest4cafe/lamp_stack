@@ -1,6 +1,6 @@
 #!/bin/bash
 #Auteur: Alexandre Carette
-#Contact: contact@alexandrecarette.com
+#Contact: alexandre@baba-agency.com
 echo Installation LAMP Stack Ubuntu // PHP7.4-fpm pour prestashop...
  
 # On demande le nom l'user qui est le nom du site 
